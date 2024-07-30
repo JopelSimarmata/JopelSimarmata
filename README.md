@@ -14,9 +14,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/jevans1859" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://img.icons8.com/?size=100&id=30888&format=png&color=08FF2E"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.icons8.com/?size=100&id=59813&format=png&color=08FF2E"></a>
+  <a href=""><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.icons8.com/?size=100&id=59813&format=png&color=08FF2E"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://img.icons8.com/?size=100&id=118638&format=png&color=08FF2E"/></a>
+  <a href=""><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://img.icons8.com/?size=100&id=118638&format=png&color=08FF2E"/></a>
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
