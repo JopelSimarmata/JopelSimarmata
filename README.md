@@ -23,20 +23,3 @@
 
 <br>
 
-<p align="left">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JopelSimarmata&theme=merko" alt="GitHub Streak" /></a>
-
-<picture align="right">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JopelSimarmata&show_icons=true&theme=merko"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JopelSimarmata&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
