@@ -23,7 +23,7 @@
 
 <br>
 <div>
-  <p align="center">I study at the Del Institute of Technology, Information Systems Study Program**</p>
+  <p align="center">I study at the Del Institute of Technology, Information Systems Study Program</p>
   </div>
 
 
